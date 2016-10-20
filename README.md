@@ -1,3 +1,3 @@
 # Bucketlist.
 
-![Background](static/img/bucket.png)
+![Background](static/img/bucket.png =100)
