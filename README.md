@@ -1,3 +1,3 @@
 # Bucketlist.
 
-![Background](static/img/bucket.png =100x)
+<img src="static/img/bucket.png" width="100">
